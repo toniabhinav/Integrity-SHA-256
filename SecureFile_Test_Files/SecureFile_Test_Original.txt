@@ -1,0 +1,4 @@
+SecureFile SHA-256 Integrity Test
+Purpose: verify that identical file contents produce the same SHA-256 hash.
+Record: TEST-001
+Status: original

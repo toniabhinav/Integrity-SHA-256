@@ -1,0 +1,3 @@
+CREATE TABLE users (id INT, username VARCHAR(50));
+VARCHAR
+INT
